@@ -6,7 +6,7 @@ title:               Vikram Bodicherla
 tagline:             Father of 2; Android Lead for Yahoo Finance
 url:                 https://www.linkedin.com/in/vikrambodicherla
 paginate:            1
-baseurl:             https://vikrambodicherla.github.io/
+baseurl:             ""
 
 # Assets
 #
@@ -32,4 +32,4 @@ gems:
   - jekyll-gist
 
 # Google Analytics
-google_analytics: UA-15082135-3
+analytics_id: UA-15082135-3
