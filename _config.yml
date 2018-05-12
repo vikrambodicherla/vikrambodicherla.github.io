@@ -33,3 +33,8 @@ gems:
 
 # Google Analytics
 analytics_id: UA-15082135-3
+
+description: Father of 2 kids, Engineering Manager for Yahoo Finance for Android
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
