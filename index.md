@@ -1,12 +1,6 @@
 ### About me
-I've been doing Android for over 5 years now. I've worked on a variety of apps from photo organization to videos to launchers to finance. 
+I am a father of 2 young kids, happily married since 2010, enjoy playing the Violin and have loved every job I've had!
 
-I have a Masters in Science (Computer Science) from [University of California, Irvine](http://ics.uci.edu) and a Bachelors of Engineering (Hons.), Computer Science from [BITS, Pilani](http://www.bits-pilani.ac.in/pilani/computerscience/ComputerScience).
+I currently work on Uber's Rider experience, primarily on the Android rider app. I've been a full-stack'ish engineer mostly, but have primarily been doing Android for over 7 years now - from photo organization to launchers to finance apps to Uber now. I've also managed teams of engineers, most recently as a Sr. Manager of Engineering at Yahoo Finance.
 
-On the personal front, I've been married happily for 6 years now. I have 2 young kids, both less than 5 years old, so life involves schedules and a lot of running around.
-
-### What I enjoy doing in my free time
-* I read a lot! I am now working through Isaac Asimov's series
-* I like building things - I just got an Arduino which will soon be managing my vertical blinds. I want to program it to open my blinds from 30 min before sunrise, slowly.
-* I've just started learning the Violin. I've been wanting to play the Violin for ever.
-* I also got an [Amazon Echo Dot](https://goo.gl/xWmyJG) recently and am trying to wire everything up to it by having things emulate Belkin devices.
+I have strong opinions on the evolution of the place technology in society, especially within young families. 
