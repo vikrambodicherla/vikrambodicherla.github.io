@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Vikram Bodicherla
-tagline:             Father of 2; Engg. Manager for Yahoo Finance
+tagline:             Android engineer at Uber
 url:                 https://www.linkedin.com/in/vikrambodicherla
 paginate:            1
 baseurl:             ""
@@ -34,7 +34,7 @@ gems:
 # Google Analytics
 analytics_id: UA-15082135-3
 
-description: Father of 2 kids, Engineering Manager for Yahoo Finance for Android
+description: Android engineer at Uber
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
